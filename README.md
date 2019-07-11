@@ -1,6 +1,6 @@
 # Packet Demo App
 
-This is a simple command line application that demonstrates to deploy and terminate a bare-metal Packet device using Packer REST API service.
+This is a simple command line application written in Go that demonstrates how to deploy and terminate a bare-metal Packet device using Packet REST API service.
 
 ## Usage
 
